@@ -1,0 +1,9 @@
+c:\shared\dev\RepliKate\RepliKate\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\shared\dev\RepliKate\RepliKate\bin\Debug\RepliKate.exe
+c:\shared\dev\RepliKate\RepliKate\bin\Debug\RepliKate.pdb
+c:\shared\dev\RepliKate\RepliKate\bin\Debug\CmdRunner.dll
+c:\shared\dev\RepliKate\RepliKate\bin\Debug\CmdRunner.pdb
+c:\shared\dev\RepliKate\RepliKate\obj\x86\Debug\RepliKate.exe
+c:\shared\dev\RepliKate\RepliKate\obj\x86\Debug\RepliKate.pdb
+c:\shared\dev\RepliKate\RepliKate\bin\Debug\RepliKate.exe.config
+c:\shared\dev\RepliKate\RepliKate\bin\Debug\log4net.dll
